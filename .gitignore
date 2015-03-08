@@ -1,0 +1,6 @@
+# Editor Temp Files
+*~
+
+# compiler generated files
+*.out
+mypgm
